@@ -5,6 +5,13 @@
 I’m a passionate developer and designer with a strong focus on building responsive, visually appealing, and functional web applications. I specialize in front-end development with React.js, creating dynamic interfaces, and I have experience with e-commerce platforms, particularly using Firebase for backend services. Additionally, I am a certified graphic designer and Amazon Virtual Assistant.
 
 ---
+## Let's Connect 🤝
+
+[![LinkedIn](https://img.shields.io/badge/-0077B5?logo=linkedin&logoColor=white&style=flat-square alt="LinkedIn" width="50" height="50" style="border-radius: 10px;")](https://www.linkedin.com/in/syedzohaibalikazmi)
+[![Email](https://img.shields.io/badge/-D14836?logo=gmail&logoColor=white&style=flat-square alt="Gmail" width="50" height="50" style="border-radius: 10px;")](mailto:syedzohaibali9900@gmail.com)
+
+
+---
 ### 🛠️ Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
@@ -49,12 +56,6 @@ I’m a passionate developer and designer with a strong focus on building respon
 -![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SyedZohaibAliKazmi&theme=radical)
 -![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedZohaibAliKazmi&layout=compact&theme=radical)
 -![Trophies](https://github-profile-trophy.vercel.app/?username=SyedZohaibAliKazmi&theme=darkhub&no-frame=true&margin-w=10&margin-h=10)
-
----
-## Let's Connect 🤝
-
-[![LinkedIn](https://img.shields.io/badge/-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/syedzohaibalikazmi)
-[![Email](https://img.shields.io/badge/-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:your-email@example.com)
 
 ---
 
