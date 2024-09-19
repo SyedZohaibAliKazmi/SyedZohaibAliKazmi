@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Zohaib Ali
+### <h2 display="flex"> Hi there 👋, I'm Zohaib Ali </h2>
 
 👨‍💻 **Web Developer | Graphic Designer | Amazon Virtual Assistant**
 
