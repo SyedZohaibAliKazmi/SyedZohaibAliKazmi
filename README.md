@@ -19,7 +19,7 @@ I’m a passionate developer and designer with a strong focus on building respon
 ---
 ### 🛠️ Languages and Tools:
 
-![HTML5](https://img.shields.io/badge/-E34F26?logo=html5&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/-E34F26?logo=html5&logoColor=white&style=flat-square width="60" height="50")
 ![CSS3](https://img.shields.io/badge/-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-3178C6?logo=typescript&logoColor=white&style=flat-square)
