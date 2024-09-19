@@ -2,7 +2,7 @@
 
 👨‍💻 **Web Developer | Graphic Designer | Amazon Virtual Assistant**
 
-I’m a passionate developer and designer with a strong focus on building responsive, visually appealing, and functional web applications. I specialize in front-end development with React.js, creating dynamic interfaces, and I have experience with e-commerce platforms, particularly using Firebase for backend services. Additionally, I am a certified graphic designer and Amazon Virtual Assistant.
+I’m a passionate developer and designer who strongly focuses on building responsive, visually appealing, and functional web applications. I specialize in front-end development with React.js, creating dynamic interfaces, and I have experience with e-commerce platforms, particularly using Firebase for backend services. Additionally, I am a certified graphic designer and Amazon Virtual Assistant.
 
 ---
 ## Let's Connect 🤝
@@ -64,7 +64,7 @@ I’m a passionate developer and designer with a strong focus on building respon
 
 ---
 
-### Feel free to explore my work and message me if you want to collaborate on something exciting!
+### <p align="center"><strong><code>Feel free to explore my work and message me if you want to collaborate on something exciting!</code></strong></p>
 
 
 ---
