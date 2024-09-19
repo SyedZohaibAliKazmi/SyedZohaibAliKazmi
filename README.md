@@ -52,10 +52,11 @@ I’m a passionate developer and designer with a strong focus on building respon
 
 ---
 
-### 📫 **Let's Connect**
+## Let's Connect 🤝
 
--[![LinkedIn](https://img.shields.io/)](https://www.linkedin.com/in/syedzohaibalikazmi)
-- [![Email](https://img.shields.io/)](mailto:syedzohaibali9900@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/syedzohaibalikazmi)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:your-email@example.com)
+
 
 ---
 
