@@ -13,6 +13,8 @@ I’m a passionate developer and designer with a strong focus on building respon
 <a href="mailto:syedzohaibali9900@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-D14836?logo=gmail&logoColor=white&style=flat" alt="Email" width="50" height="50" style="border-radius: 20px;">
 </a>
+
+
 ---
 ### 🛠️ Languages and Tools:
 
