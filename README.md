@@ -51,12 +51,10 @@ I’m a passionate developer and designer with a strong focus on building respon
 -![Trophies](https://github-profile-trophy.vercel.app/?username=SyedZohaibAliKazmi&theme=darkhub&no-frame=true&margin-w=10&margin-h=10)
 
 ---
-
 ## Let's Connect 🤝
 
-[![LinkedIn](https://img.shields.io/badge/logo=logoColor=white&style=flat-square)](https://www.linkedin.com/in/syedzohaibalikazmi)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=logoColor=white&style=flat-square)](mailto:your-email@example.com)
-
+[![(https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)]](https://www.linkedin.com/in/syedzohaibalikazmi)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:your-email@example.com)
 
 ---
 
