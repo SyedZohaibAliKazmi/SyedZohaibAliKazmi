@@ -8,7 +8,7 @@ I’m a passionate developer and designer with a strong focus on building respon
 ## Let's Connect 🤝
 
 [![LinkedIn](https://img.shields.io/badge/-0077B5)](https://www.linkedin.com/in/syedzohaibalikazmi)
-[![Email](https://img.shields.io/badge/-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/logo=gmail&logoColor=red&style=for-the-badge)](mailto:your-email@example.com)
 
 
 ---
