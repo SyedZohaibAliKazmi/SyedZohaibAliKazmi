@@ -9,10 +9,10 @@ I’m a passionate developer and designer with a strong focus on building respon
 
 <p justify-content="center">
   <a href="https://www.linkedin.com/in/syed-zohaib-ali-kazmi-6b3301247/" target="_blank">
-    <img src="https://img.shields.io/badge/-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" width="50" height="50" style="border-radius: 20px;">
+    <img src="https://img.shields.io/badge/-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" center width="60" height="50" style="border-radius: 20px;">
   </a>
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-D14836?logo=gmail&logoColor=white&style=flat" alt="Email" width="50" height="50" style="border-radius: 20px;">
+    <img src="https://img.shields.io/badge/-D14836?logo=gmail&logoColor=white&style=flat" alt="Email" center width="50" height="60" style="border-radius: 20px;">
   </a>
 </p>
 
