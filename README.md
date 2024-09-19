@@ -13,7 +13,12 @@ I’m a passionate developer and designer who strongly focuses on building respo
 <a href="mailto:your-email@example.com" target="_blank">
   <img src="https://img.shields.io/badge/-D14836?logo=gmail&logoColor=white&style=flat" alt="Email" width="60" height="50" style="border-radius: 20px;">
 </a>
-
+<a href="(https://www.facebook.com/syed.zohaibalikazmi.9?mibextid=ZbWKwL)" target="_blank">
+  <img src="https://img.shields.io/badge/-1877F2?logo=facebook&logoColor=white&style=flat" alt="Facebook" width="60" height="50" style="border-radius: 20px;">
+</a>
+<a href="https://www.instagram.com/syedzohaibalikazmi?igsh=aGFlaW1zdnJ1cnY2" target="_blank">
+  <img src="https://img.shields.io/badge/-C13584?logo=instagram&logoColor=white&style=flat" alt="Instagram" width="60" height="50" style="border-radius: 20px;">
+</a>
 
 
 ---
