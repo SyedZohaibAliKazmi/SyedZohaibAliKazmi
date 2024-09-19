@@ -1,8 +1,8 @@
-### <h2 display="flex" align-item="center"> Hi there 👋, I'm Zohaib Ali </h2>
+### <display="flex" align-item="center"> Hi there 👋, I'm Zohaib Ali </>
 
 👨‍💻 **Web Developer | Graphic Designer | Amazon Virtual Assistant**
 
-I’m a passionate developer and designer who strongly focuses on building responsive, visually appealing, and functional web applications. I specialize in front-end development with React.js, creating dynamic interfaces, and I have experience with e-commerce platforms, particularly using Firebase for backend services. Additionally, I am a certified graphic designer and Amazon Virtual Assistant.
+I’m a passionate developer and designer who strongly focuses on building responsive, visually appealing, and functional web applications. I specialize in front-end development with React.js and creating dynamic interfaces. I have experience with e-commerce platforms, particularly using Firebase for backend services. Additionally, I am a certified graphic designer and Amazon Virtual Assistant.
 
 ---
 ## Let's Connect 🤝 
