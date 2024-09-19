@@ -7,7 +7,7 @@ I’m a passionate developer and designer with a strong focus on building respon
 ---
 ## Let's Connect 🤝
 
-<p align="center">
+<p justify-content="center">
   <a href="https://www.linkedin.com/in/syed-zohaib-ali-kazmi-6b3301247/" target="_blank">
     <img src="https://img.shields.io/badge/-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" width="50" height="50" style="border-radius: 20px;">
   </a>
