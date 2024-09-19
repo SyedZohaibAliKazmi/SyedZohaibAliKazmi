@@ -58,6 +58,7 @@ I’m a passionate developer and designer with a strong focus on building respon
 
 ---
 
-Feel free to explore my work and message me if you want to collaborate on something exciting!
+### Feel free to explore my work and message me if you want to collaborate on something exciting!
+
 
 ---
