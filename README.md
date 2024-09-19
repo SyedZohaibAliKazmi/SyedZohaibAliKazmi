@@ -7,8 +7,12 @@ I’m a passionate developer and designer with a strong focus on building respon
 ---
 ## Let's Connect 🤝
 
-[![LinkedIn](https://img.shields.io/badge/-0077B5)](https://www.linkedin.com/in/syedzohaibalikazmi)
-[![Email](https://img.shields.io/badge/logo=gmail&logoColor=red&style=for-the-badge)](mailto:your-email@example.com)
+<a href="https://www.linkedin.com/in/syedzohaibalikazmi" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" width="80" height="80" style="border-radius: 20px;">
+</a>
+<a href="mailto:your-email@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email" width="80" height="80" style="border-radius: 20px;">
+</a>
 
 
 ---
