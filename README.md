@@ -5,7 +5,8 @@
 I’m a passionate developer and designer who strongly focuses on building responsive, visually appealing, and functional web applications. I specialize in front-end development with React.js, creating dynamic interfaces, and I have experience with e-commerce platforms, particularly using Firebase for backend services. Additionally, I am a certified graphic designer and Amazon Virtual Assistant.
 
 ---
-## Let's Connect 🤝
+## Let's Connect 🤝 
+<p display="flex" justify-content="center">
 
 <a href="https://www.linkedin.com/in/syed-zohaib-ali-kazmi-6b3301247/" target="_blank">
   <img src="https://img.shields.io/badge/-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" width="60" height="50" style="border-radius: 20px;">
@@ -19,7 +20,7 @@ I’m a passionate developer and designer who strongly focuses on building respo
 <a href="https://www.instagram.com/syedzohaibalikazmi?igsh=aGFlaW1zdnJ1cnY2" target="_blank">
   <img src="https://img.shields.io/badge/-C13584?logo=instagram&logoColor=white&style=flat" alt="Instagram" width="60" height="50" style="border-radius: 20px;">
 </a>
-
+</p>
 
 ---
 ### 🛠️ Languages and Tools:
