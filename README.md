@@ -11,7 +11,7 @@ I’m a passionate developer and designer who strongly focuses on building respo
 <a href="https://www.linkedin.com/in/syed-zohaib-ali-kazmi-6b3301247/" target="_blank">
   <img src="https://camo.githubusercontent.com/bd4111e83b2f1cc0d8bd771280353e4eb7e0e6408de2eb749aee4a740343cd7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" alt="LinkedIn" width="60" height="50" style="border-radius: 20px;">
 </a>
-<a href="mailto:your-email@example.com" target="_blank">
+<a href="Gmailto:syedzohaibali9900@gmail.com" target="_blank">
   <img src="https://camo.githubusercontent.com/b6eef9807c0db96d1148c56d6b5257c10a4650500fdf8a15caeae46be8a918d6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d696e7374616772616d" alt="Email" width="60" height="50" style="border-radius: 20px;">
 </a>
 <a href="(https://www.facebook.com/syed.zohaibalikazmi.9?mibextid=ZbWKwL)" target="_blank">
