@@ -53,9 +53,8 @@ I’m a passionate developer and designer with a strong focus on building respon
 ---
 ## Let's Connect 🤝
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/syedzohaibalikazmi)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:your-email@example.com)
-
+[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/syedzohaibalikazmi)
+[![Email](https://img.shields.io/static/v1?label=&message=Email&color=D14836&logo=gmail&logoColor=white&style=flat-square)](mailto:syedzohaibali9900@gmail.com)
 
 ---
 
