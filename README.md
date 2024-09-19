@@ -7,8 +7,9 @@ I’m a passionate developer and designer with a strong focus on building respon
 ---
 ## Let's Connect 🤝
 
-[<img src="https://img.shields.io/static/v1?label=&message=&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" width="60" height="60" style="border-radius: 20px;" />](https://www.linkedin.com/in/syedzohaibalikazmi)
-[<img src="https://img.shields.io/static/v1?label=&message=&color=D14836&logo=gmail&logoColor=white&style=for-the-badge" alt="Email" width="60" height="60" style="border-radius: 20px;" />](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/syedzohaibalikazmi)
+[![Email](https://img.shields.io/badge/-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your-email@example.com)
+
 
 ---
 ### 🛠️ Languages and Tools:
