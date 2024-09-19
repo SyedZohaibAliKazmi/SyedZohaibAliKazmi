@@ -6,7 +6,7 @@ I’m a passionate developer and designer who strongly focuses on building respo
 
 ---
 ## Let's Connect 🤝 
-<p display="flex" justify-content="center">
+<p display="flex" justify-content="center" self-align="center">
 
 <a href="https://www.linkedin.com/in/syed-zohaib-ali-kazmi-6b3301247/" target="_blank">
   <img src="https://img.shields.io/badge/-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" width="60" height="50" style="border-radius: 20px;">
