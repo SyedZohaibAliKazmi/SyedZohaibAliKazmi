@@ -10,8 +10,8 @@ I’m a passionate developer and designer with a strong focus on building respon
 <a href="https://www.linkedin.com/in/syedzohaibalikazmi" target="_blank">
   <img src="https://img.shields.io/badge/-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" width="80" height="80" style="border-radius: 20px;">
 </a>
-<a href="mailto:syedzohaibali9900@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/" alt="Email" width="80" height="60" style="border-radius: 20px;">
+<a href="mailto:your-email@example.com" target="_blank">
+  <img src="https://img.shields.io/badge" alt="Email" width="80" height="80" style="border-radius: 20px;">
 </a>
 
 
