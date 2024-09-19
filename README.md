@@ -45,8 +45,9 @@ I’m a passionate developer and designer with a strong focus on building respon
 
 ### 📈 My GitHub Stats
 
-![Syed Zohaib Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedZohaibAliKazmi&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedZohaibAliKazmi&layout=compact&theme=radical)
+- ![Syed Zohaib Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedZohaibAliKazmi&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedZohaibAliKazmi&layout=compact&theme=radical)
 
 ### 🏆 GitHub Trophies
 
