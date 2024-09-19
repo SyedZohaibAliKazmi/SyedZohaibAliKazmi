@@ -5,22 +5,12 @@
 I’m a passionate developer and designer who strongly focuses on building responsive, visually appealing, and functional web applications. I specialize in front-end development with React.js and creating dynamic interfaces. I have experience with e-commerce platforms, particularly using Firebase for backend services. Additionally, I am a certified graphic designer and Amazon Virtual Assistant.
 
 ---
-## Let's Connect 🤝 
-<p display="flex" justify-content="center" self-align="center">
-<a href="https://www.linkedin.com/in/syed-zohaib-ali-kazmi-6b3301247/" target="_blank">
-  <img src="https://img.shields.io/badge/-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" width="60" height="50" style="border-radius: 20px;">
-</a>
-<a href="mailto:syedzohaibali9900@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-D14836?logo=gmail&logoColor=white&style=flat" alt="Email" width="60" height="50" style="border-radius: 20px;">
-</a>
-<a href="https://www.facebook.com/syed.zohaibalikazmi.9?mibextid=ZbWKwL" target="_blank">
-  <img src="https://img.shields.io/badge/-1877F2?logo=facebook&logoColor=white&style=flat" alt="Facebook" width="60" height="50" style="border-radius: 20px;">
-</a>
-<a href="https://www.instagram.com/syedzohaibalikazmi?igsh=aGFlaW1zdnJ1cnY2" target="_blank">
-  <img src="https://img.shields.io/badge/-C13584?logo=instagram&logoColor=white&style=flat" alt="Instagram" width="60" height="50" style="border-radius: 20px;">
-</a>
+## Let's Connect 🤝
 
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/syed-zohaib-ali-kazmi-6b3301247/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/syedzohaibalikazmi?igsh=aGFlaW1zdnJ1cnY2)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/syed.zohaibalikazmi.9?mibextid=ZbWKwL)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:syedzohaibali9900@gmail.com)
 
 ---
 ### 🛠️ Languages and Tools:
