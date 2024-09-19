@@ -18,8 +18,7 @@ I’m a passionate developer and designer who strongly focuses on building respo
   <img src="https://img.shields.io/badge/-1877F2?logo=facebook&logoColor=white&style=flat" alt="Facebook" width="60" height="50" style="border-radius: 20px;">
 </a>
 <a href="[https://www.instagram.com/syedzohaibalikazmi?igsh=aGFlaW1zdnJ1cnY2](https://camo.githubusercontent.com/b6eef9807c0db96d1148c56d6b5257c10a4650500fdf8a15caeae46be8a918d6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d696e7374616772616d)" target="_blank">
-  <img src="![image](https://github.com/user-attachments/assets/1acc1dbe-d48e-4e3e-955a-d8ba8be1db4d)
-" alt="Instagram" width="60" height="50" style="border-radius: 20px;">
+  <img src="https://camo.githubusercontent.com/b6eef9807c0db96d1148c56d6b5257c10a4650500fdf8a15caeae46be8a918d6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d696e7374616772616d" alt="Instagram" width="60" height="50" style="border-radius: 20px;">
 </a>
 </p>
 
